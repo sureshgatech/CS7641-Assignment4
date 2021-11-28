@@ -1,10 +1,10 @@
-# Reinforcement Learning and MDPs
+# CS7641 Assignment 4 Running instructions
 
 The link of the code is https://github.com/sureshgatech/CS7641-Assignment4
 
 # Steps to run the code
 
-To run the code, the user should use Intellij IDEA, and build the project from this folder.
+This is a Intellij4 project. Please use eclipse or this tools to run the MDPs
 
 In the src\burlap\rl\ folder below java files
 HillClimbingEasy
@@ -12,7 +12,7 @@ GridWorldHard
 
 They corresponse to easy and hard problems, respectively.
 
-Build the project and run these two java file to obtain figures and results.
+First build the project to avoid any compilatino errors. Run each algorithm and change the hyper parameter values as explained in the analysis
 
 # Plotting instructions
 
